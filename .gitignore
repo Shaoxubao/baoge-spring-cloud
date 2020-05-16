@@ -1,0 +1,37 @@
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.ear
+
+# need by JarUtils in yuzhouwan-common
+#*.jar
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Project Files
+**/*.iml
+.idea/*
+.classpath
+.project
+
+# Maven
+**/target/
+
+# Build
+**/out/
+**/out/**
+**/classes
+
+
+# JIT log files
+*.log
+/logs
+**/logs
+**/logs/**
+
+# sorry for copyright
+
+# too large file size
