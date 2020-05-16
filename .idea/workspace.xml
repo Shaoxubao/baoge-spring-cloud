@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7242ac1-8536-45a4-993e-21c6ae2ad8da" name="Default Changelist" comment="重构模块" />
+    <list default="true" id="c7242ac1-8536-45a4-993e-21c6ae2ad8da" name="Default Changelist" comment="重构模块">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
@@ -47,15 +49,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="3" />
           <entry key="java" value="21" />
-          <entry key="xml" value="12" />
+          <entry key="xml" value="13" />
           <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="21" />
-          <entry key="XML" value="12" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="XML" value="13" />
           <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
@@ -141,6 +145,20 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="baoge-spring-cloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="baoge-spring-cloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-provider-payment8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-provider-payment8001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -171,6 +189,21 @@
               <item name="baoge-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="baoge-spring-cloud" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="baoge-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baoge-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-api-commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baoge-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baoge-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-consumer-order81" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baoge-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baoge-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-provider-payment8001" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -184,7 +217,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589644802811" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589645617957" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-api-commons/target" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -192,6 +225,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\baoge-spring-cloud" />
       <recent name="D:\workspace\baoge-spring-cloud\cloud-api-commons\src\main\java\com\baoge\springcloud" />
       <recent name="D:\workspace\baoge-spring-cloud\cloud-consumer-order81\src\main\java\com\baoge\springcloud" />
     </key>
@@ -266,7 +300,7 @@
       <workItem from="1589620280333" duration="4236000" />
       <workItem from="1589626651048" duration="226000" />
       <workItem from="1589642796731" duration="1826000" />
-      <workItem from="1589644841260" duration="217000" />
+      <workItem from="1589644841260" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="order">
       <created>1589628108895</created>
@@ -293,12 +327,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12415000" />
+    <option name="totallyTimeSpent" value="12958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15846995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21155347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -308,12 +342,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960968" weight="0.39273357" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960968" weight="0.316609" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48096886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21453287" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.39619377" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003903" side_tool="true" weight="0.32871974" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32871974" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
@@ -329,7 +363,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.2490242" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.16861826" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -472,6 +506,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
