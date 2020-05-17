@@ -2,6 +2,7 @@ package com.baoge.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * Copyright 2018-2028 Baoge All Rights Reserved.
@@ -10,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 
 @SpringBootApplication
+@EnableEurekaClient
 public class OrderMain80 {
 
     public static void main(String[] args) {
